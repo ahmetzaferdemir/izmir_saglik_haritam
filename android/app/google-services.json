@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "171031307284",
+    "project_id": "saglikharitam-6810e",
+    "storage_bucket": "saglikharitam-6810e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171031307284:android:2a817c5bf667aa65e3b301",
+        "android_client_info": {
+          "package_name": "com.example.saglik_haritam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAinYLLwhdLhyy6P29Ty-hjA9JA_3mfFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171031307284:android:0cc2253dcd30e975e3b301",
+        "android_client_info": {
+          "package_name": "com.izmir.saglikharitam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAinYLLwhdLhyy6P29Ty-hjA9JA_3mfFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
